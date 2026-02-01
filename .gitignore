@@ -1,0 +1,12 @@
+# Global ignores
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Backend specific
+target/
+*.class
